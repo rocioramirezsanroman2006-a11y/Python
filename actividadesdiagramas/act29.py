@@ -1,4 +1,3 @@
-# INICIO
 MIN = 1
 MAX = 100
 BAND = False
